@@ -9,3 +9,15 @@ Google Firebase API key is not provided for the security of users due to inadequ
 
 To download the StudyDash Installer, go to the `releases` folder.
 Development will not be continued :) .
+
+Minimal System Requirements
+---------------------------
+Note that these requirements are strictly necessary to run smoothly as expected.
+
+| Type | Requirement |
+|------|-------------|
+| Screen Size | 1920x1080 |
+| CPU | Intel Core 2 Duo E7500 or AMD equivalent and higher |
+| RAM | 128MB |
+| Internet | (for sync/web login only) 10mbps |
+| Storage | 256MB |
