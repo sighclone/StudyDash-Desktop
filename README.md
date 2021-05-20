@@ -8,4 +8,4 @@ StudyDash is a dashboard app for students that can help them keep focus and main
 Google Firebase API key is not provided for the security of users due to inadequate screening of requests to the API.
 
 To download the StudyDash Installer, go to the `releases` folder.
-Development will not be continued on this repository. However, you can fork/download and work independently.
+Development will not be continued :) .
