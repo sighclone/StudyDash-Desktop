@@ -21,3 +21,4 @@ Note that these requirements are strictly necessary to run smoothly as expected.
 | RAM | 128MB |
 | Internet | (for sync/web login only) 10mbps |
 | Storage | 256MB |
+| OS | Windows 10 **ONLY** |
