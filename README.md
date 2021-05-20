@@ -16,9 +16,9 @@ Note that these requirements are strictly necessary to run smoothly as expected.
 
 | Type | Requirement |
 |------|-------------|
-| Screen Size | 1920x1080 |
-| CPU | Intel Core 2 Duo E7500 or AMD equivalent and higher |
-| RAM | 128MB |
-| Internet | (for sync/web login only) 10mbps |
-| Storage | 256MB |
+| Screen Size | 1920x1080 or larger in both dimensions |
+| CPU | Intel Core 2 Duo E7500 or AMD equivalent or higher |
+| RAM | 128MB or more |
+| Internet | (for sync/web login only) 10mbps or more |
+| Storage | 256MB or more |
 | OS | Windows 10 **ONLY** |
