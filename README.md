@@ -14,7 +14,7 @@ Minimal System Requirements
 ---------------------------
 Note that these requirements are strictly necessary to run smoothly as expected.
 
-| Type | Requirement |
+| Type | Requirements |
 |------|-------------|
 | Screen Size | 1920x1080 or larger in both dimensions |
 | CPU | Intel Core 2 Duo E7500 or AMD equivalent or higher |
