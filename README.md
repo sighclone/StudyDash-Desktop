@@ -16,7 +16,7 @@ Note that these requirements are strictly necessary to run smoothly as expected.
 
 | Type | Requirements |
 |------|-------------|
-| Screen Size | 1920x1080 or larger in both dimensions |
+| Screen Size | 1920x1080 (ideal) or larger in both dimensions (not ideal) |
 | CPU | Intel Core 2 Duo E7500 or AMD equivalent or higher |
 | RAM | 128MB or more |
 | Internet | (for sync/web login only) 10mbps or more |
