@@ -9,8 +9,8 @@ Public Class Dashboard
 
     Private fcon As New FirebaseConfig() With
         {
-            .AuthSecret = "uhgHYPofphdXK5p8eepWpy57qCJmWJP8lAxNv8ep",
-            .BasePath = "https://stumanagehost-b6910-default-rtdb.firebaseio.com/"
+            .AuthSecret = "enter your auth secret here",
+            .BasePath = "enter your base path here"
         }
     Private client As IFirebaseClient
 
