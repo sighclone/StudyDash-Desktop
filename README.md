@@ -1,7 +1,7 @@
  Copyright (C) 2021  github.com/sighclone
 
 # StudyDash-Desktop
-**Windows 10 client** for StudyDash
+**Windows 10 client** for StudyDash, refer github.com/sighclone/StuManage for mobile client.
 
 StudyDash is a dashboard app for students that can help them keep focus and maintain a record of their assignments/other tasks with features like sync between devices (and between android-windows if required), a timer, a primary task that can be synced between devices, (partially) customisable background wallpaper, account management, quick access to useful tools, (partially) embedded other useful tools, decent security and account protection, offline storage of assignments.
 
